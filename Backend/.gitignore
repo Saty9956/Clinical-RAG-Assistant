@@ -1,0 +1,9 @@
+# Credentials
+.env
+
+# Large Binary Files (Vector DB)
+faiss_medical_index/
+
+# Python clutter
+__pycache__/
+.venv/
